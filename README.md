@@ -57,3 +57,61 @@ $ react-scripts build
 Creating an optimized production build...
 
  ```
+After building you can run the following command 
+ ```bash
+yarn run dev 
+ ```
+you should get the following statements 
+ ```bash
+Compiled successfully!
+
+You can now view my-app in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://172.26.64.1:3000
+
+Note that the development build is not optimized.
+To create a production build, use yarn build.
+Compiled successfully!
+
+You can now view my-app in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://172.26.64.1:3000
+
+Compiled successfully!
+
+You can now view my-app in the browser.
+
+  Local:            http://localhost:3000
+Compiled successfully!
+
+You can now view my-app in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://172.26.64.1:3000
+Compiled successfully!
+
+You can now view my-app in the browser.
+
+  Local:            http://localhost:3000
+Compiled successfully!
+
+You can now view my-app in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://172.26.64.1:3000
+Compiled successfully!
+
+You can now view my-app in the browser.
+
+Compiled successfully!
+
+Compiled successfully!
+
+You can now view my-app in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://172.26.64.1:3000
+
+ ```
