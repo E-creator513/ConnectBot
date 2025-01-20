@@ -26,3 +26,16 @@ pip freeze>requirements.txt
  ```bash
 python app.py 
 ```
+it should be running on 
+ ```bash
+(venv) C:\Users\User\Downloads\hacka\hacka>python app.py
+ * Serving Flask app 'app'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 225-026-118
+
+```
