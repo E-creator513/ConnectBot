@@ -117,4 +117,6 @@ You can now view my-app in the browser.
  ```
 ![image](https://github.com/user-attachments/assets/311a6aa1-e987-4d93-aadb-bca7c53c559b)
 
+Considering this is a conference for programmers ,most of the attributes you should be expecting are from programmers and skills in all the areas regarding programming 
+![image](https://github.com/user-attachments/assets/98a0b998-67a2-47f0-a0f6-df961fe654ef)
 
