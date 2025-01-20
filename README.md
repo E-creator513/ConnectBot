@@ -8,3 +8,11 @@
 ```
 
 ## Server Setup
+
+```bash
+# setup venv
+ cd venv
+cd scripts
+source activate
+#in the project directory
+```
