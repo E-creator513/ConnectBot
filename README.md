@@ -16,7 +16,10 @@ cd scripts
 source activate
 #in the project directory
 ```
- Check the Requirements.txt 
+ Check the Requirements.txt after cloning or run this statement in the cmd
+ ```bash
+pip freeze>requirements.txt 
+```
 
  Start the backend server 
 
