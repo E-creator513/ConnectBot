@@ -16,3 +16,4 @@ cd scripts
 source activate
 #in the project directory
 ```
+ Check the Requirements.txt 
